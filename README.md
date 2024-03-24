@@ -19,3 +19,5 @@ Create a Private Git Rep to push Code
 Phases 3
 Create a CI/CD Pipeline
 
+Step 1 Create a VPC in AWS
+![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/5e5687e7-0dde-4f58-8dc0-5e38c52de53a)
