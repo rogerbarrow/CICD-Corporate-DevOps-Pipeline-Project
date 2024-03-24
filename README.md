@@ -12,3 +12,10 @@ Set up a Private network environment To keep all our  Application and data priva
 
 Create a k8 Cluster
 Create VM in a secure network, Nexus Server, SonarCube Server, Jenkins and Monitoring tool
+
+Phases 2
+Create a Private Git Rep to push Code 
+
+Phases 3
+Create a CI/CD Pipeline
+
