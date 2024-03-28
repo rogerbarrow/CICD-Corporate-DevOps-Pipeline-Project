@@ -29,3 +29,6 @@ Create a CI/CD Pipeline
 * Update the Security Group with the correct Ports to define how accessible it will be from outside 
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/2405f1d3-5233-4b2d-ac6e-acc0551d3c93)
 
+# create 3 VM for Kubernetes Cluster
+![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/35a390c0-29ad-459c-b749-6e2c84390675)
+
