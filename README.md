@@ -6,9 +6,9 @@ Architecture Flow
 
 Phases 1
 Set up a Private network environment To keep all our  Application and data private and secure 
--private
--Isolated
--Secure 
+* -private
+* -Isolated
+* -Secure 
 
 Create a k8 Cluster
 Create VM in a secure network, Nexus Server, SonarCube Server, Jenkins and Monitoring tool
