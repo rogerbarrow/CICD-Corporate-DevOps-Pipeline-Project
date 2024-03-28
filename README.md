@@ -34,6 +34,6 @@ Create a CI/CD Pipeline
 
 # SSH into VM
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/6f90d4a7-0060-499e-8cd5-ab5e56714fa4)
+![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/3a35915f-0c6c-4746-b9d2-734c0d5e894c)
 
-![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/dc3442fa-7d3b-4b12-a728-6ec31f895654)
 
