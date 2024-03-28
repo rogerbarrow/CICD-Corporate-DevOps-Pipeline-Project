@@ -37,5 +37,6 @@ Create a CI/CD Pipeline
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/3a35915f-0c6c-4746-b9d2-734c0d5e894c)
 
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/90125b8a-4e5a-4400-9baf-93a9aa0ff6b0)
-
+ * run cmmd sudo apt-get update
+ * sudo apt install docker.io -y
 
