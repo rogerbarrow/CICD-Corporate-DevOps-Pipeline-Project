@@ -32,8 +32,10 @@ Create a CI/CD Pipeline
 # create 3 VM for Kubernetes Cluster
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/35a390c0-29ad-459c-b749-6e2c84390675)
 
-# SSH into VM
+# SSH into all 3 VM
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/6f90d4a7-0060-499e-8cd5-ab5e56714fa4)
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/3a35915f-0c6c-4746-b9d2-734c0d5e894c)
+
+![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/90125b8a-4e5a-4400-9baf-93a9aa0ff6b0)
 
 
