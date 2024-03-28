@@ -26,6 +26,6 @@ Create a CI/CD Pipeline
 
 # Step 1 Create a VPC in AWS
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/5e5687e7-0dde-4f58-8dc0-5e38c52de53a)
-* Update the Security Group with the correct Ports
+* Update the Security Group with the correct Ports to define how accessible it will be from outside 
 ![image](https://github.com/rogerbarrow/CICD-Corporate-DevOps-Pipeline-Project/assets/46138186/2405f1d3-5233-4b2d-ac6e-acc0551d3c93)
 
